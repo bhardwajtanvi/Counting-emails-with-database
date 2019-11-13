@@ -1,3 +1,3 @@
 # Counting-emails-with-database
 
-Counting emails from text file [![mbox.txt]](https://youtu.be/g6wvx9H3BdM)
+Counting emails from text file [![mbox.txt]](https://www.py4e.com/code3/mbox.txt)
